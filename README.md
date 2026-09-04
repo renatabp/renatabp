@@ -7,8 +7,11 @@ Vamos conetar no linkedin? Acesse: https://www.linkedin.com/in/renatabperes/
 
 ### 🤖 Linguagens e Tecnologias
 HTML e CSS
+
 JavaScript
+
 Git e Github
+
 Figma
 
 <img 
