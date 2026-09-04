@@ -1,13 +1,15 @@
 # 👩🏻‍💻 Renata Bornschein
 
-**`Desenvolvedora FullStack`**
-
 Me chamo Renata e tenho 21 anos :) Concluí o ensino médio no colégio Positivo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCPR. Sou apaixonada por tecnologia desde criança e atualmente busco evoluir profissionalmente.
 
 Vamos conetar no linkedin? Acesse: https://www.linkedin.com/in/renatabperes/
 
 
 ### 🤖 Linguagens e Tecnologias
+HTML e CSS
+JavaScript
+Git e Github
+Figma
 
 <img 
     align="left" 
